@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidTranslatorCT13</string>
+    <string name="editText_hint">Text for translation...</string>
+    <string name="button_text">Translate</string>
+
+    <string-array name="spinner">
+        <item>cs</item>
+        <item>en</item>
+        <item>de</item>
+    </string-array>
+</resources>
